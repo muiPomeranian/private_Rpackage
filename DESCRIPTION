@@ -1,12 +1,11 @@
 Package: sbstockanalysis
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Stockanalysis
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Seungbo Choi
+Maintainer: Seungbo Choi <mattch1218@gmail.com>
+Description: Use statistic/machine learning tools to analyze stock market
+License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
