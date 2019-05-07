@@ -1,0 +1,11 @@
+This package will give substantial amount of help to people who works in trading or any finance related field. 
+
+This package interpolate with many statistical tools and unsupervised machine learning and all user friendly way. 
+This specifically targets to analyze the stock market of SnP500 in US. It mainly works with closing price but with little
+tweak of the function, it can get any data in OLHC informations of stocks. 
+
+Function scrape the data from any source of financial data provider such as yahoo finance and does have visualize functioning for various reasoning.
+Market risk and analysis of trend and regime are availble from functions.
+
+All dataframe can be converted to Rdata to speed up the anlaysis if user decide to use heavy amount of datas by selecting periods of analysis.
+As long as data provide(source) can give out, user can choose any valid dates or period to analyze. 
